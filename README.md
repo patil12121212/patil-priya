@@ -34,5 +34,3 @@ This project predicts medical insurance costs based on user information such as 
 2. Open `finalproject.ipynb`.
 3. Run all notebook cells.
 
-## Note
-This project is developed for educational purposes. No confidential or personal information is included in this repository.
